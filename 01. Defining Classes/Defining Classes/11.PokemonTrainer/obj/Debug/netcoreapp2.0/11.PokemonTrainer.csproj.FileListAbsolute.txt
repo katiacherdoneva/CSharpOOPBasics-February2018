@@ -1,0 +1,10 @@
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.deps.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.pdb
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.pdb

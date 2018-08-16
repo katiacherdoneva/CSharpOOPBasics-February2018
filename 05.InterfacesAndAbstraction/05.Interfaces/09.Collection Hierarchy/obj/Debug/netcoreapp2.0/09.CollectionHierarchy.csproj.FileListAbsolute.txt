@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\05.Interfaces\09.Collection Hierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.deps.json
+C:\Users\Катя\source\repos\05.Interfaces\09.Collection Hierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.runtimeconfig.json
+C:\Users\Катя\source\repos\05.Interfaces\09.Collection Hierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\05.Interfaces\09.Collection Hierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.dll
+C:\Users\Катя\source\repos\05.Interfaces\09.Collection Hierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.pdb
+C:\Users\Катя\source\repos\05.Interfaces\09.Collection Hierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\05.Interfaces\09.Collection Hierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\05.Interfaces\09.Collection Hierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\05.Interfaces\09.Collection Hierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.AssemblyInfo.cs
+C:\Users\Катя\source\repos\05.Interfaces\09.Collection Hierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.dll
+C:\Users\Катя\source\repos\05.Interfaces\09.Collection Hierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.pdb

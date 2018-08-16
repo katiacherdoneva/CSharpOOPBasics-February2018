@@ -1,0 +1,11 @@
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\07.SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.deps.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\07.SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\07.SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\07.SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\07.SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.pdb
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\07.SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.csprojResolveAssemblyReference.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\07.SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\07.SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\07.SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\07.SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\07.SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.pdb

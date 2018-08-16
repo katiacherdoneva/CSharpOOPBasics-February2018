@@ -1,0 +1,11 @@
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\05.DateModifier\bin\Debug\netcoreapp2.0\05.DateModifier.deps.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\05.DateModifier\bin\Debug\netcoreapp2.0\05.DateModifier.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\05.DateModifier\bin\Debug\netcoreapp2.0\05.DateModifier.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\05.DateModifier\bin\Debug\netcoreapp2.0\05.DateModifier.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\05.DateModifier\bin\Debug\netcoreapp2.0\05.DateModifier.pdb
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\05.DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.csprojResolveAssemblyReference.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\05.DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\05.DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\05.DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\05.DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\05.DateModifier\obj\Debug\netcoreapp2.0\05.DateModifier.pdb

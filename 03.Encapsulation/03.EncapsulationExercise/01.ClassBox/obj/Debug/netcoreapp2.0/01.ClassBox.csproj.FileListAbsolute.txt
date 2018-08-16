@@ -1,0 +1,11 @@
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.deps.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.pdb
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.csprojResolveAssemblyReference.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.pdb

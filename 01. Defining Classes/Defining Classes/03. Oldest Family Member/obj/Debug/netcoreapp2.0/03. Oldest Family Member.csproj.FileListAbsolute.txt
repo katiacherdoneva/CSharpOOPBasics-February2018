@@ -1,0 +1,11 @@
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\03. Oldest Family Member\bin\Debug\netcoreapp2.0\03. Oldest Family Member.deps.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\03. Oldest Family Member\bin\Debug\netcoreapp2.0\03. Oldest Family Member.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\03. Oldest Family Member\bin\Debug\netcoreapp2.0\03. Oldest Family Member.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\03. Oldest Family Member\bin\Debug\netcoreapp2.0\03. Oldest Family Member.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\03. Oldest Family Member\bin\Debug\netcoreapp2.0\03. Oldest Family Member.pdb
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\03. Oldest Family Member\obj\Debug\netcoreapp2.0\03. Oldest Family Member.csprojResolveAssemblyReference.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\03. Oldest Family Member\obj\Debug\netcoreapp2.0\03. Oldest Family Member.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\03. Oldest Family Member\obj\Debug\netcoreapp2.0\03. Oldest Family Member.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\03. Oldest Family Member\obj\Debug\netcoreapp2.0\03. Oldest Family Member.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\03. Oldest Family Member\obj\Debug\netcoreapp2.0\03. Oldest Family Member.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\03. Oldest Family Member\obj\Debug\netcoreapp2.0\03. Oldest Family Member.pdb

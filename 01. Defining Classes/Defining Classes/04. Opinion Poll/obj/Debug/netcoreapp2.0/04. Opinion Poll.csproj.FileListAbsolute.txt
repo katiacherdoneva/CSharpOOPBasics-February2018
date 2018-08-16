@@ -1,0 +1,11 @@
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\04. Opinion Poll\bin\Debug\netcoreapp2.0\04. Opinion Poll.deps.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\04. Opinion Poll\bin\Debug\netcoreapp2.0\04. Opinion Poll.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\04. Opinion Poll\bin\Debug\netcoreapp2.0\04. Opinion Poll.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\04. Opinion Poll\bin\Debug\netcoreapp2.0\04. Opinion Poll.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\04. Opinion Poll\bin\Debug\netcoreapp2.0\04. Opinion Poll.pdb
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\04. Opinion Poll\obj\Debug\netcoreapp2.0\04. Opinion Poll.csprojResolveAssemblyReference.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\04. Opinion Poll\obj\Debug\netcoreapp2.0\04. Opinion Poll.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\04. Opinion Poll\obj\Debug\netcoreapp2.0\04. Opinion Poll.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\04. Opinion Poll\obj\Debug\netcoreapp2.0\04. Opinion Poll.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\04. Opinion Poll\obj\Debug\netcoreapp2.0\04. Opinion Poll.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\04. Opinion Poll\obj\Debug\netcoreapp2.0\04. Opinion Poll.pdb

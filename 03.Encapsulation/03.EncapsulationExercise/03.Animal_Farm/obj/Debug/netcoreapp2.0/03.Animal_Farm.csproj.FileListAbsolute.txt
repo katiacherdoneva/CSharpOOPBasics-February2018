@@ -1,0 +1,11 @@
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\03.Animal_Farm\bin\Debug\netcoreapp2.0\03.Animal_Farm.deps.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\03.Animal_Farm\bin\Debug\netcoreapp2.0\03.Animal_Farm.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\03.Animal_Farm\bin\Debug\netcoreapp2.0\03.Animal_Farm.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\03.Animal_Farm\bin\Debug\netcoreapp2.0\03.Animal_Farm.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\03.Animal_Farm\bin\Debug\netcoreapp2.0\03.Animal_Farm.pdb
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\03.Animal_Farm\obj\Debug\netcoreapp2.0\03.Animal_Farm.csprojResolveAssemblyReference.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\03.Animal_Farm\obj\Debug\netcoreapp2.0\03.Animal_Farm.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\03.Animal_Farm\obj\Debug\netcoreapp2.0\03.Animal_Farm.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\03.Animal_Farm\obj\Debug\netcoreapp2.0\03.Animal_Farm.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\03.Animal_Farm\obj\Debug\netcoreapp2.0\03.Animal_Farm.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\03.Animal_Farm\obj\Debug\netcoreapp2.0\03.Animal_Farm.pdb

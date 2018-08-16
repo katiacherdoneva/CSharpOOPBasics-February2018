@@ -1,0 +1,11 @@
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\04.INHERITANCE\01.Person\bin\Debug\netcoreapp2.0\01.Person.deps.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\04.INHERITANCE\01.Person\bin\Debug\netcoreapp2.0\01.Person.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\04.INHERITANCE\01.Person\bin\Debug\netcoreapp2.0\01.Person.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\04.INHERITANCE\01.Person\bin\Debug\netcoreapp2.0\01.Person.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\04.INHERITANCE\01.Person\bin\Debug\netcoreapp2.0\01.Person.pdb
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\04.INHERITANCE\01.Person\obj\Debug\netcoreapp2.0\01.Person.csprojResolveAssemblyReference.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\04.INHERITANCE\01.Person\obj\Debug\netcoreapp2.0\01.Person.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\04.INHERITANCE\01.Person\obj\Debug\netcoreapp2.0\01.Person.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\04.INHERITANCE\01.Person\obj\Debug\netcoreapp2.0\01.Person.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\04.INHERITANCE\01.Person\obj\Debug\netcoreapp2.0\01.Person.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\04.INHERITANCE\01.Person\obj\Debug\netcoreapp2.0\01.Person.pdb

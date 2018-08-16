@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\05.Interfaces\02.MultipleImplementationn\bin\Debug\netcoreapp2.0\02.MultipleImplementationn.deps.json
+C:\Users\Катя\source\repos\05.Interfaces\02.MultipleImplementationn\bin\Debug\netcoreapp2.0\02.MultipleImplementationn.runtimeconfig.json
+C:\Users\Катя\source\repos\05.Interfaces\02.MultipleImplementationn\bin\Debug\netcoreapp2.0\02.MultipleImplementationn.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\05.Interfaces\02.MultipleImplementationn\bin\Debug\netcoreapp2.0\02.MultipleImplementationn.dll
+C:\Users\Катя\source\repos\05.Interfaces\02.MultipleImplementationn\bin\Debug\netcoreapp2.0\02.MultipleImplementationn.pdb
+C:\Users\Катя\source\repos\05.Interfaces\02.MultipleImplementationn\obj\Debug\netcoreapp2.0\02.MultipleImplementationn.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\05.Interfaces\02.MultipleImplementationn\obj\Debug\netcoreapp2.0\02.MultipleImplementationn.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\05.Interfaces\02.MultipleImplementationn\obj\Debug\netcoreapp2.0\02.MultipleImplementationn.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\05.Interfaces\02.MultipleImplementationn\obj\Debug\netcoreapp2.0\02.MultipleImplementationn.AssemblyInfo.cs
+C:\Users\Катя\source\repos\05.Interfaces\02.MultipleImplementationn\obj\Debug\netcoreapp2.0\02.MultipleImplementationn.dll
+C:\Users\Катя\source\repos\05.Interfaces\02.MultipleImplementationn\obj\Debug\netcoreapp2.0\02.MultipleImplementationn.pdb

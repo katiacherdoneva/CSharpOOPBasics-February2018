@@ -1,0 +1,11 @@
+C:\Users\Катя\Desktop\Grand P\Нова папка\bin\Debug\netcoreapp2.0\01.Structure.deps.json
+C:\Users\Катя\Desktop\Grand P\Нова папка\bin\Debug\netcoreapp2.0\01.Structure.runtimeconfig.json
+C:\Users\Катя\Desktop\Grand P\Нова папка\bin\Debug\netcoreapp2.0\01.Structure.runtimeconfig.dev.json
+C:\Users\Катя\Desktop\Grand P\Нова папка\bin\Debug\netcoreapp2.0\01.Structure.dll
+C:\Users\Катя\Desktop\Grand P\Нова папка\bin\Debug\netcoreapp2.0\01.Structure.pdb
+C:\Users\Катя\Desktop\Grand P\Нова папка\obj\Debug\netcoreapp2.0\01.Structure.csproj.CoreCompileInputs.cache
+C:\Users\Катя\Desktop\Grand P\Нова папка\obj\Debug\netcoreapp2.0\01.Structure.AssemblyInfoInputs.cache
+C:\Users\Катя\Desktop\Grand P\Нова папка\obj\Debug\netcoreapp2.0\01.Structure.AssemblyInfo.cs
+C:\Users\Катя\Desktop\Grand P\Нова папка\obj\Debug\netcoreapp2.0\01.Structure.dll
+C:\Users\Катя\Desktop\Grand P\Нова папка\obj\Debug\netcoreapp2.0\01.Structure.pdb
+C:\Users\Катя\Desktop\Grand P\Нова папка\obj\Debug\netcoreapp2.0\01.Structure.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\04.Shopping_Spree\bin\Debug\netcoreapp2.0\04.Shopping_Spree.deps.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\04.Shopping_Spree\bin\Debug\netcoreapp2.0\04.Shopping_Spree.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\04.Shopping_Spree\bin\Debug\netcoreapp2.0\04.Shopping_Spree.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\04.Shopping_Spree\bin\Debug\netcoreapp2.0\04.Shopping_Spree.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\04.Shopping_Spree\bin\Debug\netcoreapp2.0\04.Shopping_Spree.pdb
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\04.Shopping_Spree\obj\Debug\netcoreapp2.0\04.Shopping_Spree.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\04.Shopping_Spree\obj\Debug\netcoreapp2.0\04.Shopping_Spree.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\04.Shopping_Spree\obj\Debug\netcoreapp2.0\04.Shopping_Spree.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\04.Shopping_Spree\obj\Debug\netcoreapp2.0\04.Shopping_Spree.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\04.Shopping_Spree\obj\Debug\netcoreapp2.0\04.Shopping_Spree.pdb

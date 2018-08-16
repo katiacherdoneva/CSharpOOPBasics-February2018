@@ -1,0 +1,11 @@
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\01. Define a Class Person\bin\Debug\netcoreapp2.0\01. Define a Class Person.deps.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\01. Define a Class Person\bin\Debug\netcoreapp2.0\01. Define a Class Person.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\01. Define a Class Person\bin\Debug\netcoreapp2.0\01. Define a Class Person.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\01. Define a Class Person\bin\Debug\netcoreapp2.0\01. Define a Class Person.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\01. Define a Class Person\bin\Debug\netcoreapp2.0\01. Define a Class Person.pdb
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\01. Define a Class Person\obj\Debug\netcoreapp2.0\01. Define a Class Person.csprojResolveAssemblyReference.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\01. Define a Class Person\obj\Debug\netcoreapp2.0\01. Define a Class Person.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\01. Define a Class Person\obj\Debug\netcoreapp2.0\01. Define a Class Person.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\01. Define a Class Person\obj\Debug\netcoreapp2.0\01. Define a Class Person.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\01. Define a Class Person\obj\Debug\netcoreapp2.0\01. Define a Class Person.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\01. Define a Class Person\obj\Debug\netcoreapp2.0\01. Define a Class Person.pdb

@@ -1,0 +1,11 @@
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\08.RawData\bin\Debug\netcoreapp2.0\08.RawData.deps.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\08.RawData\bin\Debug\netcoreapp2.0\08.RawData.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\08.RawData\bin\Debug\netcoreapp2.0\08.RawData.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\08.RawData\bin\Debug\netcoreapp2.0\08.RawData.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\08.RawData\bin\Debug\netcoreapp2.0\08.RawData.pdb
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.csprojResolveAssemblyReference.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.pdb

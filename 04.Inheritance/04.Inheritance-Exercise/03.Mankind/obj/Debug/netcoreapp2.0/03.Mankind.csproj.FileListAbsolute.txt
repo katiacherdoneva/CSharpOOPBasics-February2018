@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\04.Inheritance-Exercise\03.Mankind\bin\Debug\netcoreapp2.0\03.Mankind.deps.json
+C:\Users\Катя\source\repos\04.Inheritance-Exercise\03.Mankind\bin\Debug\netcoreapp2.0\03.Mankind.runtimeconfig.json
+C:\Users\Катя\source\repos\04.Inheritance-Exercise\03.Mankind\bin\Debug\netcoreapp2.0\03.Mankind.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\04.Inheritance-Exercise\03.Mankind\bin\Debug\netcoreapp2.0\03.Mankind.dll
+C:\Users\Катя\source\repos\04.Inheritance-Exercise\03.Mankind\bin\Debug\netcoreapp2.0\03.Mankind.pdb
+C:\Users\Катя\source\repos\04.Inheritance-Exercise\03.Mankind\obj\Debug\netcoreapp2.0\03.Mankind.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\04.Inheritance-Exercise\03.Mankind\obj\Debug\netcoreapp2.0\03.Mankind.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\04.Inheritance-Exercise\03.Mankind\obj\Debug\netcoreapp2.0\03.Mankind.AssemblyInfo.cs
+C:\Users\Катя\source\repos\04.Inheritance-Exercise\03.Mankind\obj\Debug\netcoreapp2.0\03.Mankind.dll
+C:\Users\Катя\source\repos\04.Inheritance-Exercise\03.Mankind\obj\Debug\netcoreapp2.0\03.Mankind.pdb
+C:\Users\Катя\source\repos\04.Inheritance-Exercise\03.Mankind\obj\Debug\netcoreapp2.0\03.Mankind.csprojResolveAssemblyReference.cache

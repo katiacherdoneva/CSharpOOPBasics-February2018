@@ -1,0 +1,11 @@
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\10.CarSalesman\bin\Debug\netcoreapp2.0\10.CarSalesman.deps.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\10.CarSalesman\bin\Debug\netcoreapp2.0\10.CarSalesman.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\10.CarSalesman\bin\Debug\netcoreapp2.0\10.CarSalesman.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\10.CarSalesman\bin\Debug\netcoreapp2.0\10.CarSalesman.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\10.CarSalesman\bin\Debug\netcoreapp2.0\10.CarSalesman.pdb
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.csprojResolveAssemblyReference.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\01. Defining Classes\Defining Classes\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.pdb

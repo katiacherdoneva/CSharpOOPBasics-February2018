@@ -1,0 +1,10 @@
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.0\02.ClassBoxDataValidation.deps.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.0\02.ClassBoxDataValidation.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.0\02.ClassBoxDataValidation.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.0\02.ClassBoxDataValidation.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.0\02.ClassBoxDataValidation.pdb
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation.pdb

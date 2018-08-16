@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\05.Interfaces\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.deps.json
+C:\Users\Катя\source\repos\05.Interfaces\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.runtimeconfig.json
+C:\Users\Катя\source\repos\05.Interfaces\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\05.Interfaces\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.dll
+C:\Users\Катя\source\repos\05.Interfaces\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.pdb
+C:\Users\Катя\source\repos\05.Interfaces\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\05.Interfaces\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\05.Interfaces\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\05.Interfaces\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.AssemblyInfo.cs
+C:\Users\Катя\source\repos\05.Interfaces\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.dll
+C:\Users\Катя\source\repos\05.Interfaces\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.pdb

@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\05.Interfaces\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.deps.json
+C:\Users\Катя\source\repos\05.Interfaces\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.runtimeconfig.json
+C:\Users\Катя\source\repos\05.Interfaces\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\05.Interfaces\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.dll
+C:\Users\Катя\source\repos\05.Interfaces\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.pdb
+C:\Users\Катя\source\repos\05.Interfaces\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\05.Interfaces\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\05.Interfaces\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\05.Interfaces\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.AssemblyInfo.cs
+C:\Users\Катя\source\repos\05.Interfaces\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.dll
+C:\Users\Катя\source\repos\05.Interfaces\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.pdb

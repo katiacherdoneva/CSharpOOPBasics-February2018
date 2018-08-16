@@ -1,0 +1,11 @@
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\05.PizzaCalories\bin\Debug\netcoreapp2.0\05.PizzaCalories.deps.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\05.PizzaCalories\bin\Debug\netcoreapp2.0\05.PizzaCalories.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\05.PizzaCalories\bin\Debug\netcoreapp2.0\05.PizzaCalories.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\05.PizzaCalories\bin\Debug\netcoreapp2.0\05.PizzaCalories.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\05.PizzaCalories\bin\Debug\netcoreapp2.0\05.PizzaCalories.pdb
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\05.PizzaCalories\obj\Debug\netcoreapp2.0\05.PizzaCalories.csprojResolveAssemblyReference.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\05.PizzaCalories\obj\Debug\netcoreapp2.0\05.PizzaCalories.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\05.PizzaCalories\obj\Debug\netcoreapp2.0\05.PizzaCalories.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\05.PizzaCalories\obj\Debug\netcoreapp2.0\05.PizzaCalories.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\05.PizzaCalories\obj\Debug\netcoreapp2.0\05.PizzaCalories.dll
+D:\катя\Програмиране\2.C# Fun\02. C# OOP Basics\03.Encapsulation\03.EncapsulationExercise\05.PizzaCalories\obj\Debug\netcoreapp2.0\05.PizzaCalories.pdb
